@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Candidate in the [Department of Logic and Philosophy of Science at the University of California, Irvine](https://www.lps.uci.edu/)). My work is in three areas: causation/explanation, evolutionary game theory, and philosophy of cognitive science.
+I am a PhD Candidate in the [Department of Logic and Philosophy of Science at the University of California, Irvine](https://www.lps.uci.edu/)). My work is in three areas: causation/explanation, evolutionary game theory, and philosophy of cognitive science. I am co-advised by Lauren Ross and Cailin O'Connor.
 
 In causation/explanation, I work on conceptual and methodological issues that arise when both causal and temporal considerations are in play (e.g., integrating evidence streams obtained from processes that act at different time-scales, causes which are sensitive to temporal variables, the manipulation of temporal properties via causes). My dissertation is comprised of work in this area.
 
