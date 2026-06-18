@@ -13,6 +13,6 @@ In causation/explanation, I work on conceptual and methodological issues that ar
 
 In evolutionary game theory, I am interested in methodological debates concrening meaningful communication and modeling the emergence of communication systems. In the philosophy of cognitive science I work on the explanatory status of mental representations (especially, questions pertaining to format), cognitive architecture and cognitive ontology. 
 
-I currently am one of the co-directors of the [LPS Summer Development Program](https://lpssdp.com/), a program which introduces pre-PhD students who might otherwise not have access to mentorship opportunities at their home institutions to logic and philosophy of science. 
+I am currently one of the co-directors of the [LPS Summer Development Program](https://lpssdp.com/), a program which introduces pre-PhD students who might otherwise not have access to mentorship opportunities at their home institutions to logic and philosophy of science. 
 
 You can contact me at: ryanc15 [at] uci [dot] edu
