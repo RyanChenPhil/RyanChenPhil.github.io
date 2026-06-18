@@ -23,7 +23,7 @@ repository               : "RyanChenPhil/RyanChenPhil.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpeg"
+  avatar           : "profile.jpg"
   name             : "Ryan Chen"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate working on Causation/Explanation, Evolutionary Game Theory, and Philosophy of Cognitive Science"
