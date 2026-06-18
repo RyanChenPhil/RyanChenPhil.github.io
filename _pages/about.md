@@ -15,4 +15,4 @@ In evolutionary game theory, I am interested in methodological debates concrenin
 
 I currently am one of the co-directors of the [LPS Summer Development Program]([https://lpssdp.com/]), a program which introduces pre-PhD students who might otherwise not have access to mentorship opportunities at their home institutions to logic and philosophy of science. 
 
-You can contact mme at: ryanc15 [at] uci [dot] edu
+You can contact me at: ryanc15 [at] uci [dot] edu
