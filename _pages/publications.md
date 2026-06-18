@@ -1,11 +1,9 @@
 ---
 layout: archive
-title: "Research"
+title: "Journal Articles"
 permalink: /publications/
 author_profile: true
 ---
-
-# Journal Articles
 
 **Marking Indicatives and Imperatives**
 
