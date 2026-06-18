@@ -23,7 +23,7 @@ I have served as Teaching Assistant at both the University of British Columbia a
 
 # University of British Columbia
 
-**Instructor of Record**
+**Teaching Assistant**
 - Phil 120: Introduction to Critical Thinking (2020/2021 W1)
 - Phil 220: Symbolic Logic (2020/2021 W2)
 - Cogs 200: Introduction to Cognitive Systems (2021/2022 W1)
