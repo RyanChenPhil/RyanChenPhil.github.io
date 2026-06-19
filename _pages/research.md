@@ -13,7 +13,7 @@ author_profile: true
 - "Marking Indicatives and Imperatives" *Philosophy of Science Association* (2024)
 
 # Works in Progress (Drafts Available Upon Request)
-- Time-Sensitive and Insensitive Causation: Sensitive Periods and Cycles
+- Time Sensitive and Insensitive Causation: Sensitive Periods and Cycles
 - Turnover Processes in Cooperative Games
 
 
