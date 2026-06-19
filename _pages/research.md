@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 **Marking Indicatives and Imperatives** 
-- Published *Philosophy of Science, 92*(5), 1235-1244, 2025. Available [here](https://doi.org/10.1017/psa.2025.10139)
+- Published in *Philosophy of Science, 92*(5), 1235-1244, 2025. Available [here](https://doi.org/10.1017/psa.2025.10139)
 
 # Conference Presentations
 
@@ -18,6 +18,9 @@ author_profile: true
 
 **Marking Indicatives and Imperatives**
 - *Philosophy of Science Association* (2024)
- 
+
+# Works in Progress (Drafts Available Upon Request)
+- Time-Sensitive and Insensitive Causation: Sensitive Periods and Cycles
+- Turnover Processes in Cooperative Games
 
 
