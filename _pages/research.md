@@ -10,10 +10,12 @@ author_profile: true
 
 # Conference Presentations
 
-**A Modest Moral Judgment Eliminativism** 
-- Poster Presentation at the *Society for Philosophy and Psychology 2025*
-
 **Episodic Memory is Analog Declarative Memory** (with Justin Greenberg)
-- Talk at *Issues in Philosophy of Memory 5* 
+- *Issues in Philosophy of Memory 5* (2026)
+**A Modest Moral Judgment Eliminativism** 
+- (Poster) *Society for Philosophy and Psychology 2025*
+**Marking Indicatives and Imperatives**
+- *Philosophy of Science Association* (2024)
+ 
 
 
