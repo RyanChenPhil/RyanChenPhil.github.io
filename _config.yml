@@ -12,7 +12,7 @@ site_theme               : "air" # The available themes options are "default", "
 title                    : "Ryan Chen"
 title_separator          : "-"
 name                     : &name "Ryan Chen"
-description              : &description "Ryan is a PhD Candidate in the Logic and Philosophy of Science Program at UC Irvine working on Causation/Explanation, Evolutionary Game Theory, and Philosophy of Cognitive Science."   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Ryan is a PhD Candidate in the Logic and Philosophy of Science Program at UC Irvine working on Causal Explanation, Evolutionary Game Theory, and Philosophy of Cognitive Science."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://RyanChenPhil.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
