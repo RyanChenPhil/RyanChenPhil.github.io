@@ -10,7 +10,7 @@ I have served as Teaching Assistant at both the University of British Columbia a
 # University of California, Irvine
 
 **Instructor of Record**
-- LPS 60: Making Modern Science (Spring 2026) ([Syllabus](ryanchenphil.github.io/files/LPS-HIST 60 Syllabus.pdf))
+- LPS 60: Making Modern Science (Spring 2026) ([Syllabus](ryanchenphil.github.io/files/LPS-HIST_60_Syllabus.pdf))
 
 **Teaching Assistant**
 - LPS 30: Symbolic Logic (Winter 2023, 2024)
